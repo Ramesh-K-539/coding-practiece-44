@@ -84,5 +84,5 @@ export const TopText = styled.p`
   color: #ffffff;
   font-weight: bold;
   font-family: 'roboto';
-  font-size: ${props => props.fSize};
+  font-size: ${props => props.fSize}px;
 `
